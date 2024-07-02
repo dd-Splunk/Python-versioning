@@ -1,2 +1,5 @@
- FastApi
- python-semantic-release
+black
+FastApi
+isort
+pre-commit
+python-semantic-release
