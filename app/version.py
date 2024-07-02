@@ -9,4 +9,5 @@ automatically updated by the python-semantic-release package.
 DO NOT EDIT IT MANUALLY.
 """
 
-__version__ = 0.1.0
+__version__ = 0.1.0;
+
