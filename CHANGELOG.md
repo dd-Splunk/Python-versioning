@@ -1,5 +1,15 @@
 # CHANGELOG
 
+## v0.3.0 (2024-07-02)
+
+### Feature
+
+* feat: add pre-commit ([`bd5b3c3`](https://github.com/dd-Splunk/Python-versioning/commit/bd5b3c310799bab1dc3d80ece4f0f825275a5d11))
+
+### Unknown
+
+* formatted ([`7fe47da`](https://github.com/dd-Splunk/Python-versioning/commit/7fe47daa6929050064e4015aea33daab359bd8e0))
+
 ## v0.2.0 (2024-07-02)
 
 ### Feature
