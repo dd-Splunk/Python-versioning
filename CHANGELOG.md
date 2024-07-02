@@ -1,5 +1,16 @@
 # CHANGELOG
 
+## v0.3.1 (2024-07-02)
+
+### Fix
+
+* fix: REDAME ([`10c662e`](https://github.com/dd-Splunk/Python-versioning/commit/10c662e04ab9ccb0ed29f0a7d6ac0f13660a7533))
+
+### Unknown
+
+* Merge branch &#39;main&#39; of https://github.com/dd-Splunk/Python-versioning
+pull merge ([`5206fc8`](https://github.com/dd-Splunk/Python-versioning/commit/5206fc850b9462889f608b2f46cf325ce5d71f4a))
+
 ## v0.3.0 (2024-07-02)
 
 ### Feature
