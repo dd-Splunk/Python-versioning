@@ -1,5 +1,19 @@
 # CHANGELOG
 
+## v0.2.0 (2024-07-02)
+
+### Feature
+
+* feat: more comments ([`d876629`](https://github.com/dd-Splunk/Python-versioning/commit/d8766293c06e9851c025478c4c061445876f6b48))
+
+### Unknown
+
+* Module + import ([`b3210da`](https://github.com/dd-Splunk/Python-versioning/commit/b3210dab622b9d44f133628d0f8572fbc55016c6))
+
+* add workflow ([`7869593`](https://github.com/dd-Splunk/Python-versioning/commit/7869593f7444d39f6c815459ee531eea7118a190))
+
+* add fastapi ([`569c727`](https://github.com/dd-Splunk/Python-versioning/commit/569c7273effaffb2352807c8b786958570f3b10c))
+
 ## v0.1.0 (2024-07-02)
 
 ### Feature
