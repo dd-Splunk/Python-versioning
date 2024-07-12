@@ -1,0 +1,34 @@
+{
+  "scheme": "custom",
+  "username": "DoomGuy",
+  "email": "guy@doom.id",
+  "schemeDefinition": "major.minor[.build][->patch]",
+  "versionFile": "./bump/package.json",
+  "files": [
+    {
+      "path": "./app/default/app.conf",
+      "line": 14
+    }
+  ],
+  "rules": [
+    {
+      "trigger": "commit",
+      "bump": "build"
+    },
+    {
+      "trigger": "commit",
+      "bump": "minor",
+      "branch": "main",
+      "reset": "build"
+    },
+    {
+      "trigger": "commit",
+      "bump": "major",
+      "branch": "release",
+      "reset": [
+        "minor",
+        "build"
+      ]
+    }
+  ]
+}
