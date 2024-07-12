@@ -1,4 +1,4 @@
-# /app/version.py
+# /src/version.py
 """
 Version Information
 
