@@ -6,8 +6,7 @@
   "versionFile": "./bump/package.json",
   "files": [
     {
-      "path": "./app/default/app.conf",
-      "line": 14
+      "path": "./app/default/app.conf"
     }
   ],
   "rules": [
