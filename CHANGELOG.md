@@ -1,5 +1,19 @@
 # CHANGELOG
 
+## v0.4.1 (2024-07-12)
+
+### Fix
+
+* fix: add initial version ([`c356de3`](https://github.com/dd-Splunk/Python-versioning/commit/c356de38ab832a1b817d810ca225e504225ad001))
+
+### Refactor
+
+* refactor: add files versions ([`518378b`](https://github.com/dd-Splunk/Python-versioning/commit/518378b8b04d1ca843304672fe6e56ca7fefa09b))
+
+### Unknown
+
+* doc: add references ([`b8415fa`](https://github.com/dd-Splunk/Python-versioning/commit/b8415fa62748e909f10118e2cc99082eb171c28b))
+
 ## v0.4.0 (2024-07-12)
 
 ### Documentation
