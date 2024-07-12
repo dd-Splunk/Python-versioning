@@ -1,7 +1,7 @@
 {
   "scheme": "custom",
-  "username": "DoomGuy",
-  "email": "guy@doom.id",
+  "username": "dd-Splunk",
+  "email": "ddessy@splunk.com",
   "schemeDefinition": "major.minor[.build][->patch]",
   "versionFile": "./bump/package.json",
   "files": [
